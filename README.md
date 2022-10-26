@@ -1,2 +1,8 @@
 # Eric_Chen
- a personal page of Eric Chen
+This is my homepage
+## Details about me
+I hate math
+I hate sports
+I hate mashrooms
+I like eating
+I enjoy sleeping
